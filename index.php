@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="/posyandu/assets/img/favicon/logo-01.png"/>
+	<link rel="icon" type="image/png" href="assets/img/favicon/logo-01.png"/>
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="/posyandu/assets/vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
